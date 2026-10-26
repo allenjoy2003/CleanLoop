@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Home",
+    "waste_guide": "Waste Guide",
+    "rules_fines": "Rules & Fines",
+    "service_areas": "Service Areas",
+    "scrap_rates": "Scrap Rate Card",
+    "book_pickup": "Book Pickup",
+    "sell_scrap": "Sell Scrap",
+    "my_subscriptions": "Subscriptions",
+    "impact": "My Impact",
+    "rewards": "Green Credits",
+    "complaints": "Civic Grievances",
+    "wallet": "Wallet",
+    "admin_dashboard": "Admin Panel",
+    "signin": "Sign In",
+    "signout": "Sign Out",
+    "profile": "My Profile"
+  },
+  "tagline": "Segregate. Collect. Recycle. Repeat.",
+  "hero": {
+    "badge": "Smart Municipal Waste Platform • Kochi",
+    "title_1": "Kochi's Cleanest Future",
+    "title_2": "Starts At Your Doorstep",
+    "description": "Smart waste segregation, reliable daily doorstep collection, fair-price scrap sales, and real-time municipal updates tailored for Kochi households and businesses.",
+    "cta_book": "Book Waste Pickup",
+    "cta_scrap": "Sell Scrap for Cash",
+    "stat_diverted": "kg Waste Diverted",
+    "stat_households": "Kochi Households",
+    "stat_co2": "kg CO2 Avoided",
+    "stat_trees": "Trees Saved"
+  },
+  "how_it_works": {
+    "title": "How Clean Loop Works",
+    "subtitle": "4 effortless steps to a cleaner home and a greener Kochi",
+    "step_1_title": "1. Segregate at Home",
+    "step_1_desc": "Separate wet food waste in the green bin, clean dry recyclables in the blue bin.",
+    "step_2_title": "2. Book Pickup or Sell Scrap",
+    "step_2_desc": "Schedule a convenient morning or evening time slot with your GPS pin.",
+    "step_3_title": "3. Doorstep Verification",
+    "step_3_desc": "Trained Haritha Karma Sena or scrap agents collect and weigh with digital scales.",
+    "step_4_title": "4. Instant Wallet Cash & Points",
+    "step_4_desc": "Receive direct payouts for scrap and earn Green Credits towards rewards."
+  },
+  "common": {
+    "loading": "Loading...",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save Changes",
+    "search": "Search...",
+    "all": "All",
+    "filter": "Filter",
+    "view_all": "View All",
+    "close": "Close"
+  }
+}

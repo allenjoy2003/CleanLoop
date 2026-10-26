@@ -1,0 +1,18 @@
+# .gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+# Django
+*.log
+local_settings.py
+# Env files
+.env
+# VS Code
+.vscode/
+# Node
+node_modules/
+# Build artifacts
+staticfiles/
+media/
